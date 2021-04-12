@@ -26,6 +26,7 @@
 ![Untitled](https://user-images.githubusercontent.com/49690383/114421206-07306300-9bf0-11eb-8ab4-08795155b04b.png)
 
 **선형**: 자료 간의 관계가 한 줄로 이루어진 것
+
 **비선형**: 자료 간의 관계가 여러 줄로 이루어 진 것
 
 
