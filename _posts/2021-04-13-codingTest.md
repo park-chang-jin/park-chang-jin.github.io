@@ -23,9 +23,7 @@
 
 
 ## 자료구조의 종류
-
-![](C:\Users\돌맹\Desktop\Export-392fcf27-de84-48a6-bc2a-8d471004c461\Why 코딩 테스트가 필요해 de9220a9c8134202a1ffff1a33aac275\Untitled.png)
-
+![Untitled](https://user-images.githubusercontent.com/49690383/114421206-07306300-9bf0-11eb-8ab4-08795155b04b.png)
 **선형**: 자료 간의 관계가 한 줄로 이루어진 것
 
 **비선형**: 자료 간의 관계가 여러 줄로 이루어 진 것
